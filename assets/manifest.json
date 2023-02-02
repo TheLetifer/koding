@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "sivakas talks about your mom.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sivakas.onrender",
+  "orientation": "any",
+  "scope": "https://sivakas.onrender.com/assets/",
+  "short_name": "sivakas",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
